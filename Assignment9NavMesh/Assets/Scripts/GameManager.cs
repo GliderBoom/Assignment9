@@ -9,6 +9,9 @@ public class GameManager : Singleton<GameManager>
 
     public GameObject SelectMenu;
 
+    
+
+
     public string curName = "MainMenu";
     Scene currentScene;
 
